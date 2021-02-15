@@ -1,0 +1,1 @@
+/Users/bryanbierce/.zprezto/runcoms/zlogout
